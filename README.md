@@ -22,6 +22,18 @@ We have developed a multi-agent system in collaboration with [IBM Cloud](https:/
 
 We created two IOS applications for [Cáritas de Monterrey](https://www.caritas.org.mx) using Swift Xcode and a dedicated MySQL database to register and manage volunteering for a company. The applications streamline the process and provide a user-friendly experience for volunteers and administrators. The use of a dedicated database ensures data security and reliability. The two applications we developed have a strong focus on security, utilizing a UFW firewall, SSL certificates allowing for HTTPS protocol, Environment Variables, Secure Headers, and Logging for the API. These measures were implemented to ensure the safety and privacy of volunteer data, protecting against potential cyber threats and vulnerabilities.
 
+
+
+### Education and Training
+*COMPUTER SCIENCE AND TECHNOLOGY (3RD YR.) ITESM*
+- iOS Development
+- Object-Oriented Programming
+- Data Structures and Fundamental Algorithms
+- Advanced Algorithms
+- Networks and Networks Security. 
+- Analysis of Software Requirements
+- Software Construction and Decision Making
+
 <!--
 **IvanPGt/IvanPGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
