@@ -7,7 +7,7 @@ Some of my most important projects include:
 
 We develop a web application that enables job applicants to submit their Curriculum Vitae (CV) through an interview-style video game created in Unity, which will produce a standardized format for all registered CVs. The application will utilize an API to store the data in a corresponding MySQL database.
 
-### Game Never Ending Story
+### [Game Never Ending Story](https://gallery-games.itch.io/never-ending-story)
 *Unity, C, Game designer, Game developer, Level desingner, UI/UX designer*
 
 We developed a 2D platformer video game entirely in Unity, in collaboration with graphic and sound designers. We designed and developed each of the game mechanics in the C programming language. In addition, we created our own user interface, taking into account the user experience. We ensured that the interface was intuitive and user-friendly, providing a seamless experience for players.
