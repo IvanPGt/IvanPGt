@@ -20,7 +20,7 @@ We have developed a multi-agent system aimed at enhancing the traffic flow in a 
 ### Volunteer Management IOS Application
 *Swift, UI/UX designer, API*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We created two IOS applications using Swift Xcode and a dedicated MySQL database to register and manage volunteering for a company. The applications streamline the process and provide a user-friendly experience for volunteers and administrators. The use of a dedicated database ensures data security and reliability. The two applications we developed have a strong focus on security, utilizing a UFW firewall, SSL certificates allowing for HTTPS protocol, Environment Variables, Secure Headers, and Logging for the API. These measures were implemented to ensure the safety and privacy of volunteer data, protecting against potential cyber threats and vulnerabilities.
 
 <!--
 **IvanPGt/IvanPGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
