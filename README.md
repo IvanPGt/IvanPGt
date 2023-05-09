@@ -34,6 +34,8 @@ We created two IOS applications for [Cáritas de Monterrey](https://www.caritas.
 - Analysis of Software Requirements
 - Software Construction and Decision Making
 
+### Soft Skills
+caigo bien
 <!--
 **IvanPGt/IvanPGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
