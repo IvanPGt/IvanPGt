@@ -5,7 +5,7 @@ Some of my most important projects include:
 ### Web Recruitment Application with Gamified Interview 
 *ASP .NET, API, C, Unity, UI/UX designer, Game designer, Game developer, Graphic designer*
 
-We develop a web application that enables job applicants to submit their Curriculum Vitae (CV) through an interview-style video game created in Unity, which will produce a standardized format for all registered CVs. The application will utilize an API to store the data in a corresponding MySQL database.
+We develop a web application for [ATOS](https://atos.net/en/) that enables job applicants to submit their Curriculum Vitae (CV) through an interview-style video game created in Unity, which will produce a standardized format for all registered CVs. The application will utilize an API to store the data in a corresponding MySQL database.
 
 ### [Game Never Ending Story](https://gallery-games.itch.io/never-ending-story)
 *Unity, C, Game designer, Game developer, Level desingner, UI/UX designer*
@@ -20,7 +20,7 @@ We have developed a multi-agent system aimed at enhancing the traffic flow in a 
 ### Volunteer Management IOS Application
 *Swift, UI/UX designer, API*
 
-We created two IOS applications using Swift Xcode and a dedicated MySQL database to register and manage volunteering for a company. The applications streamline the process and provide a user-friendly experience for volunteers and administrators. The use of a dedicated database ensures data security and reliability. The two applications we developed have a strong focus on security, utilizing a UFW firewall, SSL certificates allowing for HTTPS protocol, Environment Variables, Secure Headers, and Logging for the API. These measures were implemented to ensure the safety and privacy of volunteer data, protecting against potential cyber threats and vulnerabilities.
+We created two IOS applications for [Cáritas de Monterrey](https://www.caritas.org.mx) using Swift Xcode and a dedicated MySQL database to register and manage volunteering for a company. The applications streamline the process and provide a user-friendly experience for volunteers and administrators. The use of a dedicated database ensures data security and reliability. The two applications we developed have a strong focus on security, utilizing a UFW firewall, SSL certificates allowing for HTTPS protocol, Environment Variables, Secure Headers, and Logging for the API. These measures were implemented to ensure the safety and privacy of volunteer data, protecting against potential cyber threats and vulnerabilities.
 
 <!--
 **IvanPGt/IvanPGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
