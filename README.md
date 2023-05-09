@@ -1,4 +1,4 @@
-## I'm Iván Pérez 😄, a student of Computer Science with a strong interest in technology. 👋
+## I'm Iván Pérez 😄, a student of Computer Science with a strong interest in technology and game development. 👋
 
 Some of my most important projects include:
 
