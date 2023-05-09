@@ -15,7 +15,7 @@ We developed a 2D platformer video game entirely in Unity, in collaboration with
 ### Optimizing Traffic Flow through Agent-based Simulation
 *Unity, 3D Modelling, C, Python*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We have developed a multi-agent system aimed at enhancing the traffic flow in a roundabout and creating a redesign proposal for it. The entire project was executed in Unity, utilizing 3D models to represent the scenario. Python Flask and iPython Notebook were employed to carry out the calculations for each of the agents, which can be read in Unity via a JSON file.
 
 ### Volunteer Management IOS Application
 *Swift, UI/UX designer, API*
