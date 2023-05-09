@@ -10,7 +10,7 @@ We develop a web application that enables job applicants to submit their Curricu
 ### Game Never Ending Story
 *Unity, C, Game designer, Game developer, Level desingner, UI/UX designer*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We developed a 2D platformer video game entirely in Unity, in collaboration with graphic and sound designers. We designed and developed each of the game mechanics in the C programming language. In addition, we created our own user interface, taking into account the user experience. We ensured that the interface was intuitive and user-friendly, providing a seamless experience for players.
 
 ### Optimizing Traffic Flow through Agent-based Simulation
 *Unity, 3D Modelling, C, Python*
