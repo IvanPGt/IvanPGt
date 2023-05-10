@@ -37,7 +37,12 @@ We created two IOS applications for [Cáritas de Monterrey](https://www.caritas.
 ---------------
 
 ### Soft Skills
-caigo bien
+- Effective communication
+- Collaboration
+- Flexibility
+- Problem-solving
+- Critical thinking
+- Strategic thinking
 <!--
 **IvanPGt/IvanPGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
